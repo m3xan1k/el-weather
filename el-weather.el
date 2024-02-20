@@ -84,4 +84,5 @@
 	    output-fields
 	    "\n"))))
 
+(provide 'el-weather)
 ;;; el-weather.el ends here
