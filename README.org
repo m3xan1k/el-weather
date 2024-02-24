@@ -1,0 +1,3 @@
+To get current weather
+
+=M-x m3xan1k-show-weather=
